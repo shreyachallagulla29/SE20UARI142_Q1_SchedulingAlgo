@@ -1,7 +1,9 @@
 # SE20UARI142_Q1_SchedulingAlgo
 
-Average waiting time of scheduling algorithms(in order of fcfs,sjf,ps and rr respectively): [16.5, 16.5, 14.5, 8.0]
 
-Average turn around time of scheduling algorithms(in order of fcfs,sjf,ps and rr respectively): [27.0, 27.0, 25.0, 18.5]
+Based on the provided data, it's evident that the Round Robin (RR) scheduling algorithm outperforms the other scheduling algorithms in terms of efficiency. This conclusion is drawn from the following observations:
 
---> Hence we can see that in this case, Round robin is the most efficient scheduling algorithm.
+- The average waiting time for RR is 8.0, which is the lowest among all the algorithms (FCFS, SJF, PS, and RR).
+- The average turnaround time for RR is 18.5, which is also the lowest compared to FCFS, SJF, and PS.
+
+Therefore, based on these metrics, Round Robin demonstrates superior efficiency in this specific scenario.
